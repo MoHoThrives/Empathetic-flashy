@@ -1,0 +1,1 @@
+import { Bedrock } from "@aws-sdk/client-bedrock";
